@@ -50,3 +50,5 @@ Test the correlation and present the results on a graph showing the relationship
 Movies like "Incredibles 2" and "The Dark Knight" achieved an ROI of over 300% with a production budget of around $200M to $250M. These films demonstrate that a more moderate budget can yield very high returns, suggesting that a carefully managed production budget combined with strong audience demand can drive substantial profitability.
 - Avengers Films Have a Consistent ROI Despite High Budgets:
 Films like "Avengers: Endgame" and "Avengers: Infinity War" had production budgets of $300M to $400M, with consistent ROIs between 220% to 260%. While these budgets are among the higher range in the dataset, their returns are solid, albeit not the highest in terms of percentage. This suggests that while Avengers films do well at the box office, their ROI is more balanced due to the substantial investment required for their production.
+
+Further insights are presented here: [Imdb_1000_analysis.ipynb](https://github.com/zyesnazarov/Imdb_1000_analysis/blob/main/Imdb_1000_analysis.ipynb)
