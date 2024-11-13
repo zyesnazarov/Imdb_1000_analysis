@@ -39,7 +39,7 @@ Test the correlation and present the results on a graph showing the relationship
 
 #### Visualize data
 
-![ROI of top 10 films](Python/Imdb_1000_analysis/Images/ROI_top_10_films.png)
+![ROI of top 10 films](https://github.com/zyesnazarov/Imdb_1000_analysis/blob/main/Images/ROI_top_10_films.png)
 
 
 ### Key insights
